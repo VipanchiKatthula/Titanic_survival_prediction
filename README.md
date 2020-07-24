@@ -1,2 +1,2 @@
 # Titanic_survival_prediction
-Repo for Medium blog
+This is a repository for my Medium blog here: 
